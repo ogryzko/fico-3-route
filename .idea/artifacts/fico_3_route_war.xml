@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fico-3-route:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ru.mbtc.fico3.route.war">
+      <element id="artifact" artifact-name="fico-3-route:war exploded" />
+    </root>
+  </artifact>
+</component>

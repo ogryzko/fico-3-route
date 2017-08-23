@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<AMFico>
+    <Request>
+        <Id>Test 1</Id>
+        <Auth>
+            <MemberCode>XXXXBBXXXXXX</MemberCode>
+            <User>XXXXBBXXXXXX</User>
+            <Password>password</Password>
+        </Auth>
+        <Accounts>
+            <Acc memberCode="XXXXBBXXXXXX" cflag="Y" cdate="01.11.2014" cexpdate="01.02.2015" cpurpose="1" ocpurpose="" ruser="ООО Банк Ипотечный" liability="Y">45507810100000002124</Acc>
+            <Acc memberCode="XXXXBBXXXXXX" cflag="Y" cdate="30.11.2014" cexpdate="21.02.2017" cpurpose="4" ocpurpose="Сбор просроченной задолженности" ruser="ООО Веселый коллектор" liability="Y">84644854TER548465POLY</Acc>
+        </Accounts>
+    </Request>
+</AMFico>
